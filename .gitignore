@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/BlazorWithMongo/BlazorWithMongo/Client/bin/Debug/netstandard2.1
+/BlazorWithMongo/.vs/BlazorWithMongo/v16
+/BlazorWithMongo/BlazorWithMongo/Client/obj
+/BlazorWithMongo/BlazorWithMongo/Server/bin/Debug/netcoreapp3.1
+/BlazorWithMongo/BlazorWithMongo/Server/obj
+/BlazorWithMongo/BlazorWithMongo/Shared/bin/Debug/netstandard2.1
+/BlazorWithMongo/BlazorWithMongo/Shared/obj
